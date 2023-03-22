@@ -1,8 +1,8 @@
 # DIU23
-Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Turismo ) 
 
-Grupo: DIU1_01AABB.  Curso: 2022/23 
-Updated: 11/1/2023
+Grupo: DIU3_GatosUniversitarios.  Curso: 2022/23 
+Updated: 22/3/2023
 
 Proyecto: 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
@@ -15,14 +15,13 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Mario Martínez Sánchez     :octocat:     
+ * :bust_in_silhouette:  Teresa Fernanda Reyes García     :octocat:
 
 ----- 
 
 
 
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
