@@ -81,7 +81,13 @@ Hemos querido describir dos experiencias diferentes de usuarios al navegar por u
 
 Consideramos que ambas experiencias podrían ser una experiencia habitual de un usuario en la web, buscando que esta se adapte a sus necesidades y requerimientos.
 
-## ![Juan_Alberto_JM]() Journey Map : Juan Alberto
+## ![Juan_Alberto_foto](P1/Personas/Juan_Alberto.jpg) Journey Map : Juan Alberto
+
+![Juan_Alberto_JM](P1/Personas/Juan_Alberto_JM.png)
+
+## ![Isabelina_foto](P1/Personas/Isabelina.jpg) Journey Map : Isabelina
+
+![Isabelina_JM](P1/Personas/Isabelina_JM.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
