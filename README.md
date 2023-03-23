@@ -55,7 +55,7 @@ Hemos querido crear personas con personalidades diferentes pero que tengan en co
 
 ### Persona 1 : Juan Alberto
 
-![Juan Alberto](P1/Personas/Persona #1.png)
+![Juan_Alberto](P1/Personas/Persona_1.png)
 
 Hemos seleccionado a Juan Alberto por:
 
@@ -66,7 +66,7 @@ Hemos seleccionado a Juan Alberto por:
 
 ### Persona 2 : Isabelina
 
-![Isabelina](P1/Personas/Persona #2.png)
+![Isabelina](P1/Personas/Persona_2.png)
 
 Hemos seleccionado a Isabelina por:
 
