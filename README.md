@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   Mario Martínez Sánchez     :octocat:     
- * :bust_in_silhouette:  Teresa Fernanda Reyes García     :octocat:
+ * 	:smile_cat:   Mario Martínez Sánchez       
+ * 	:smile_cat:  Teresa Fernanda Reyes García
 
 ----- 
 
@@ -33,18 +33,15 @@ Miembros
 
 Para la realización del análisis de competencia, hemos buscado distintas páginas relacionadas con la temática de la práctica, es decir, páginas en las que se ofrecieran talleres, tours y visitas por Granada. Entre las encontradas, optamos por quedarnos con las dos siguientes:
 
-> **La Alborea**, cuyo enlace es el siguiente: https://alboreaflamenco.com/
-En esta página, podemos encontrar espectáculos de flamenco a buen precio y con una página con buenas calidades (tanto de foto como de video), pero con un diseño y una visualización muy mejorable, pues la página es muy oscura (predominando el negro y el rojo). 
+> [**La Alborea**](https://alboreaflamenco.com/) --> En esta página, podemos encontrar espectáculos de flamenco a buen precio y con una página con buenas calidades (tanto de foto como de video), pero con un diseño y una visualización muy mejorable, pues la página es muy oscura (predominando el negro y el rojo). 
 
-> **Cicerone**, cuyo enlace es el siguiente: https://acortar.link/WpaoG1 
-En esta web encontramos visitas por Granada, aunque a un precio excesivamente elevado. Tiene un diseño simple pero eficaz, estando muy bien organizada y con un buen manejo y cantidad de información.
+> [**Cicerone**](https://acortar.link/WpaoG1) --> En esta web encontramos visitas por Granada, aunque a un precio excesivamente elevado. Tiene un diseño simple pero eficaz, estando muy bien organizada y con un buen manejo y cantidad de información.
 
-> Por otro lado, respecto a la página propuesta en la práctica (**Artesanía Nazarí**) tiene el siguiente enlace: https://artesanianazari.es/inicio/?lang=es 
-Esta página tiene un diseño poco agradable y un manejo complicado, lo que la hace poco útil e intuitiva. Además, a pesar de ser completa, pues tiene mucha información, el mal reparto de esta provoca la insatisfacción del usuario, pues es difícil encontrar la información solicitada.
+> [**Artesanía Nazarí**](https://artesanianazari.es/inicio/?lang=es) --> Esta es la página propuesta en la práctica, la cuál tiene un diseño poco agradable y un manejo complicado, lo que la hace poco útil e intuitiva. Además, a pesar de ser completa, pues tiene mucha información, el mal reparto de esta provoca la insatisfacción del usuario, pues es difícil encontrar la información solicitada.
 
 De esta forma, rellenamos la tabla de comparativas de la siguiente manera:
 
-()
+![CompetitorAnalysis](P1/Competitor_Analysis/Competitor_Analysis.png)
 
 En conclusión, en el caso de tener que escoger una de las opciones, escogeremos Cicerone, pues es la única que es tanto completa como intuitiva, además de tener un buen diseño, facilitando el uso de esta al usuario y, de este modo, garantizando una buena experiencia.
 
@@ -78,9 +75,13 @@ Hemos seleccionado a Isabelina por:
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+## Descripción.
+
 Hemos querido describir dos experiencias diferentes de usuarios al navegar por una misma web. La primera experiencia es la de Juan Alberto, quien se emociona al encontrar el sitio web del taller, pero se siente frustrado al ver el mal diseño y distribución de la página. Además, al intentar comprar entradas para él y su pareja, se da cuenta de que no hay una opción para comprar solo dos entradas, la web es poco accesible para personas en silla de ruedas y el precio es elevado. Esto lo lleva a replantearse su decisión de asistir al taller. Por otro lado, Isabelina tiene una experiencia más fluida, aunque también enfrenta dificultades para encontrar información relevante en la web, pero finalmente logra comprar las entradas y disfrutar del taller con sus amigos. 
 
 Consideramos que ambas experiencias podrían ser una experiencia habitual de un usuario en la web, buscando que esta se adapte a sus necesidades y requerimientos.
+
+## ![Juan_Alberto_JM]() Journey Map : Juan Alberto
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
