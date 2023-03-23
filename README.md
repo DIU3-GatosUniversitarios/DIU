@@ -31,18 +31,56 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Para la realización del análisis de competencia, hemos buscado distintas páginas relacionadas con la temática de la práctica, es decir, páginas en las que se ofrecieran talleres, tours y visitas por Granada. Entre las encontradas, optamos por quedarnos con las dos siguientes:
+
+> **La Alborea**, cuyo enlace es el siguiente: https://alboreaflamenco.com/
+En esta página, podemos encontrar espectáculos de flamenco a buen precio y con una página con buenas calidades (tanto de foto como de video), pero con un diseño y una visualización muy mejorable, pues la página es muy oscura (predominando el negro y el rojo). 
+
+> **Cicerone**, cuyo enlace es el siguiente: https://acortar.link/WpaoG1 
+En esta web encontramos visitas por Granada, aunque a un precio excesivamente elevado. Tiene un diseño simple pero eficaz, estando muy bien organizada y con un buen manejo y cantidad de información.
+
+> Por otro lado, respecto a la página propuesta en la práctica (**Artesanía Nazarí**) tiene el siguiente enlace: https://artesanianazari.es/inicio/?lang=es 
+Esta página tiene un diseño poco agradable y un manejo complicado, lo que la hace poco útil e intuitiva. Además, a pesar de ser completa, pues tiene mucha información, el mal reparto de esta provoca la insatisfacción del usuario, pues es difícil encontrar la información solicitada.
+
+De esta forma, rellenamos la tabla de comparativas de la siguiente manera:
+
+()
+
+En conclusión, en el caso de tener que escoger una de las opciones, escogeremos Cicerone, pues es la única que es tanto completa como intuitiva, además de tener un buen diseño, facilitando el uso de esta al usuario y, de este modo, garantizando una buena experiencia.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+Hemos querido crear personas con personalidades diferentes pero que tengan en común las ganas de descubrir cosas nuevas, para demostrar cómo un sitio web de taller nazarí puede ser visitado por usuarios muy diferentes. Son personas curiosas, con ganas de aprender y que buscan planes innovadores que estén adaptados a sus necesidades y requerimientos personales.
+
+### Persona 1 : Juan Alberto
+
+![Juan Alberto](P1/Personas/Persona #1.png)
+
+Hemos seleccionado a Juan Alberto por:
+
+- Está muy acostumbrado a las nuevas tecnologías.
+- Necesita que los sitios que visita estén adaptados a su silla de ruedas.
+- Al tener grandes conocimientos, puede ser un usuario muy exigente. Necesita una web de fácil acceso, intuitiva y llamativa.
+
+
+### Persona 2 : Isabelina
+
+![Isabelina](P1/Personas/Persona #2.png)
+
+Hemos seleccionado a Isabelina por:
+
+- No está muy acostumbrada a las nuevas tecnologías, se defiende.
+- Es muy perfeccionista y no tiene mucho tiempo libre, necesita que sus planes se adapten a su horario.
+- Necesita una web clara y de fácil uso.
+
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
+Hemos querido describir dos experiencias diferentes de usuarios al navegar por una misma web. La primera experiencia es la de Juan Alberto, quien se emociona al encontrar el sitio web del taller, pero se siente frustrado al ver el mal diseño y distribución de la página. Además, al intentar comprar entradas para él y su pareja, se da cuenta de que no hay una opción para comprar solo dos entradas, la web es poco accesible para personas en silla de ruedas y el precio es elevado. Esto lo lleva a replantearse su decisión de asistir al taller. Por otro lado, Isabelina tiene una experiencia más fluida, aunque también enfrenta dificultades para encontrar información relevante en la web, pero finalmente logra comprar las entradas y disfrutar del taller con sus amigos. 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+Consideramos que ambas experiencias podrían ser una experiencia habitual de un usuario en la web, buscando que esta se adapte a sus necesidades y requerimientos.
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
