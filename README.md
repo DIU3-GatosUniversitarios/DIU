@@ -75,28 +75,45 @@ Hemos seleccionado a Isabelina por:
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-## Descripción.
+### Descripción.
 
 Hemos querido describir dos experiencias diferentes de usuarios al navegar por una misma web. La primera experiencia es la de Juan Alberto, quien se emociona al encontrar el sitio web del taller, pero se siente frustrado al ver el mal diseño y distribución de la página. Además, al intentar comprar entradas para él y su pareja, se da cuenta de que no hay una opción para comprar solo dos entradas, la web es poco accesible para personas en silla de ruedas y el precio es elevado. Esto lo lleva a replantearse su decisión de asistir al taller. Por otro lado, Isabelina tiene una experiencia más fluida, aunque también enfrenta dificultades para encontrar información relevante en la web, pero finalmente logra comprar las entradas y disfrutar del taller con sus amigos. 
 
 Consideramos que ambas experiencias podrían ser una experiencia habitual de un usuario en la web, buscando que esta se adapte a sus necesidades y requerimientos.
 
-## ![Juan_Alberto_foto](P1/Personas/Juan_Alberto.jpg) Journey Map : Juan Alberto
+### Journey Map : Juan Alberto
+
 
 ![Juan_Alberto_JM](P1/Personas/Juan_Alberto_JM.png)
 
-## ![Isabelina_foto](P1/Personas/Isabelina.jpg) Journey Map : Isabelina
+
+### Journey Map : Isabelina
+
 
 ![Isabelina_JM](P1/Personas/Isabelina_JM.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
 
+Los enlaces al Usability Review son:
+
+-	:scroll: [Usability_Review.xlsx](P1/Usability-review-Artesanía_Nazarí.xlsx)
+
+-	:scroll: [Usability_Review.pdf](P1/Usability-review-Artesanía_Nazarí.pdf)
+
+
+### Valoración y conclusión:
+
+:trophy: **Valoración final (numérica):** 67 - Moderate
+
+La página web es una web funcional en cuanto a que cumple los objetivos básicos de los usuarios, lo cual es importante. Sin embargo, su falta de intuitividad y claridad podría dificultar la experiencia del usuario al navegar por la página. Tiene un diseño oscuro y triste, esto podría afectar negativamente a la percepción del usuario y hacer que se sienta menos atraído por la página. Esta web podría mejorarse en varios aspectos.
+
+A pesar de lo mencionado anteriormente, la página web cuenta con muchas características que le convierten en una web aceptable y útil:
+
+- Es una web responsive, tiene una buena visualización aunque su diseño es mejorable.
+- Dispone de mucha información útil para el usuario: descripción del taller, materiales, maestros, galería de fotos... 
+- El menú de navegación es muy completo y muy visual.
+- Cuenta con muchos idiomas diferentes, adaptándose a posibles usuarios extranjeros.
 
 ## Paso 2. UX Design  
 
