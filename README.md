@@ -28,7 +28,16 @@ Miembros
 
 ## Paso 1. UX Desk Research & Analisis 
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+![Método UX](img/Competitive.png) 1.a Empathy Map
+-----
+
+Después de completar el mapa de empatía, hemos concluido que los usuarios acceden a la página web en busca de información relevante sobre el taller, como el precio, duración del mismo o adaptaciones a diferentes tipos de usuarios (silla de ruedas, idioma…). 
+
+Sin embargo, la apariencia y la navegación deficientes de la página dificultan la búsqueda de información, lo que resulta en una experiencia de usuario poco satisfactoria. Por lo tanto, recomendamos mejorar la página mediante la creación de una interfaz más intuitiva y visual, lo que permitirá un acceso más fácil a la información y, en consecuencia, conseguir una experiencia de usuario más positiva y útil.
+
+![EmpathyMap](P1/Empathy_Map/Empathy_Map.png)
+
+![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
 Para la realización del análisis de competencia, hemos buscado distintas páginas relacionadas con la temática de la práctica, es decir, páginas en las que se ofrecieran talleres, tours y visitas por Granada. Entre las encontradas, optamos por quedarnos con las dos siguientes:
@@ -45,7 +54,7 @@ De esta forma, rellenamos la tabla de comparativas de la siguiente manera:
 
 En conclusión, en el caso de tener que escoger una de las opciones, escogeremos Cicerone, pues es la única que es tanto completa como intuitiva, además de tener un buen diseño, facilitando el uso de esta al usuario y, de este modo, garantizando una buena experiencia.
 
-![Método UX](img/Persona.png) 1.b Persona
+![Método UX](img/Persona.png) 1.c Persona
 -----
 
 Hemos querido crear personas con personalidades diferentes pero que tengan en común las ganas de descubrir cosas nuevas, para demostrar cómo un sitio web de taller nazarí puede ser visitado por usuarios muy diferentes. Son personas curiosas, con ganas de aprender y que buscan planes innovadores que estén adaptados a sus necesidades y requerimientos personales.
@@ -72,7 +81,7 @@ Hemos seleccionado a Isabelina por:
 - Necesita una web clara y de fácil uso.
 
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
 ### Descripción.
@@ -92,7 +101,7 @@ Consideramos que ambas experiencias podrían ser una experiencia habitual de un 
 
 ![Isabelina_JM](P1/Personas/Isabelina_JM.png)
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
 
 Los enlaces al Usability Review son:
