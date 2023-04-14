@@ -136,9 +136,11 @@ A pesar de lo mencionado anteriormente, la página web cuenta con muchas caracte
 ### FeedBack Capture Grid
 ![FeedbackCaptureGrid](P2/Ideacion/FeedbackCaptureGrid.png)
 
+    
 ### POV : Point Of View
 ![POV](P2/Ideacion/POV.png)
-    
+
+
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
