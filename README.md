@@ -92,7 +92,7 @@ Consideramos que ambas experiencias podrían ser una experiencia habitual de un 
 
 ### Journey Map : Juan Alberto
 
-
+Para la ‘Propuesta de Valor’, hemos completado un LeanUXCanvas, el cual contiene información sobre los objetivos y propósitos en los que nos centraremos, en función de las necesidades y acciones más frecuentes de los usuarios.
 ![Juan_Alberto_JM](P1/Personas/Juan_Alberto_JM.png)
 
 
@@ -130,32 +130,34 @@ A pesar de lo mencionado anteriormente, la página web cuenta con muchas caracte
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
 ----
 
+Para la sección de ‘Ideación’ hemos realizado una ‘Malla receptora de información’ y una tabla con los ‘Point of View’ de distintos usuarios. Hemos escogido dichos diagramas porque pensamos que son los que mejor pueden adaptarse a nuestra propuesta y mostrarla de una forma visual.
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-### FeedBack Capture Grid
+### 1.  FeedBack Capture Grid
 ![FeedbackCaptureGrid](P2/Ideacion/FeedbackCaptureGrid.png)
 
     
-### POV : Point Of View
+### 2.  POV : Point Of View
 ![POV](P2/Ideacion/POV.png)
 
 
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+### Propuesta de valor
+Nosotros tenemos como objetivo hacer que el acceso a nuestro taller sea fácil y accesible para todos los visitantes, sin importar sus necesidades o circunstancias. Queremos diseñado una propuesta de valor pensando en los diferentes perfiles de nuestros visitantes, desde extranjeros hasta personas con discapacidad, y ofrecemos una variedad de opciones para garantizar una experiencia personalizada y cómoda para todos.
 
+Lo que más destaca de nuestra propuesta es que nos hemos centrado en el acceso al taller de una forma más amena, con la posibilidad de ir en compañía. Además, queremos mostrar que tanto el acceso al taller como el contenido de este, puede adaptarse a todo tipo de usuarios sin importar su condición física, el idioma en el que hable, etc. 
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+Para la ‘Propuesta de Valor’, hemos completado un LeanUXCanvas, el cual contiene información sobre los objetivos y propósitos en los que nos centraremos, en función de las necesidades y acciones más frecuentes de los usuarios.
+
+![ScopeCanvas](P2/ScopeCanvas/Scope_Canvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+Para el ‘Análisis de Tareas’ hemos realizado una matriz de tareas/usuarios, el cual hemos centrado en la posibilidad de añadir rutas para acceder al taller, ya sea en coche, andando o de cualquier otra forma. De esta forma, los clientes podrán llegar al lugar del taller con compañía y de forma más amena. También le hemos dado una gran importancia a las personas con dificultades, ya sea por discapacidad, desconocimiento del idioma, etc.
+
+![Matriz](P2/TaskAnalysis/MatrizTareasUsuarios.png)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
