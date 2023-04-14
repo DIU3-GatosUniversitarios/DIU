@@ -133,11 +133,11 @@ A pesar de lo mencionado anteriormente, la página web cuenta con muchas caracte
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 
+### FeedBack Capture Grid
+![FeedbackCaptureGrid](P2/Ideacion/FeedbackCaptureGrid.png)
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
+### POV : Point Of View
+![POV](P2/Ideacion/POV.png)
     
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
