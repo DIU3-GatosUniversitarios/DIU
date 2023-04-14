@@ -127,10 +127,9 @@ A pesar de lo mencionado anteriormente, la página web cuenta con muchas caracte
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / POV
 ----
-
-Para la sección de ‘Ideación’ hemos realizado una ‘Malla receptora de información’ y una tabla con los ‘Point of View’ de distintos usuarios. Hemos escogido dichos diagramas porque pensamos que son los que mejor pueden adaptarse a nuestra propuesta y mostrarla de una forma visual.
+Para la sección de Ideación hemos realizado una ‘Malla receptora de información’ y una tabla con los ‘Point of View’ de distintos usuarios. Hemos escogido dichos diagramas porque pensamos que son los que mejor pueden adaptarse a nuestra propuesta y mostrarla de una forma visual.
 
 ### FeedBack Capture Grid
 ![FeedbackCaptureGrid](P2/Ideacion/FeedbackCaptureGrid.png)
@@ -140,19 +139,20 @@ Para la sección de ‘Ideación’ hemos realizado una ‘Malla receptora de in
 ![POV](P2/Ideacion/POV.png)
 
 
-### Propuesta de valor
+![Método UX](img/ScopeCanvas.png) 2.b Propuesta de Valor
+----
+
 Nosotros tenemos como objetivo hacer que el acceso a nuestro taller sea fácil y accesible para todos los visitantes, sin importar sus necesidades o circunstancias. Queremos diseñado una propuesta de valor pensando en los diferentes perfiles de nuestros visitantes, desde extranjeros hasta personas con discapacidad, y ofrecemos una variedad de opciones para garantizar una experiencia personalizada y cómoda para todos.
 
 Lo que más destaca de nuestra propuesta es que nos hemos centrado en el acceso al taller de una forma más amena, con la posibilidad de ir en compañía. Además, queremos mostrar que tanto el acceso al taller como el contenido de este, puede adaptarse a todo tipo de usuarios sin importar su condición física, el idioma en el que hable, etc. 
 
+### Scope Canvas
 
-![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
-----
-Para la ‘Propuesta de Valor’, hemos completado un LeanUXCanvas, el cual contiene información sobre los objetivos y propósitos en los que nos centraremos, en función de las necesidades y acciones más frecuentes de los usuarios.
+Para la Propuesta de Valor, hemos completado un LeanUXCanvas, el cual contiene información sobre los objetivos y propósitos en los que nos centraremos, en función de las necesidades y acciones más frecuentes de los usuarios.
 
 ![ScopeCanvas](P2/ScopeCanvas/Scope_Canvas.png)
 
-![Método UX](img/Sitemap.png) 2.b Tasks analysis 
+![Método UX](img/Sitemap.png) 2.c Tasks analysis 
 -----
 
 Para el ‘Análisis de Tareas’ hemos realizado una matriz de tareas/usuarios, el cual hemos centrado en la posibilidad de añadir rutas para acceder al taller, ya sea en coche, andando o de cualquier otra forma. De esta forma, los clientes podrán llegar al lugar del taller con compañía y de forma más amena. También le hemos dado una gran importancia a las personas con dificultades, ya sea por discapacidad, desconocimiento del idioma, etc.
@@ -160,7 +160,7 @@ Para el ‘Análisis de Tareas’ hemos realizado una matriz de tareas/usuarios,
 ![Matriz](P2/TaskAnalysis/MatrizTareasUsuarios.png)
 
 
-![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+![Método UX](img/labelling.png) 2.d IA: Sitemap + Labelling 
 ----
 
 
@@ -171,7 +171,7 @@ Término | Significado
   Login¿?  | acceder a plataforma
 
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
+![Método UX](img/Wireframes.png) 2.e Wireframes
 -----
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
