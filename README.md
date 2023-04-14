@@ -132,11 +132,11 @@ A pesar de lo mencionado anteriormente, la página web cuenta con muchas caracte
 
 Para la sección de ‘Ideación’ hemos realizado una ‘Malla receptora de información’ y una tabla con los ‘Point of View’ de distintos usuarios. Hemos escogido dichos diagramas porque pensamos que son los que mejor pueden adaptarse a nuestra propuesta y mostrarla de una forma visual.
 
-### 1.  FeedBack Capture Grid
+### FeedBack Capture Grid
 ![FeedbackCaptureGrid](P2/Ideacion/FeedbackCaptureGrid.png)
 
     
-### 2.  POV : Point Of View
+### POV : Point Of View
 ![POV](P2/Ideacion/POV.png)
 
 
