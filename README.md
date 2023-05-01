@@ -2,17 +2,15 @@
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Turismo ) 
 
 Grupo: DIU3_GatosUniversitarios.  Curso: 2022/23 
-Updated: 22/3/2023
+Updated: 01/05/2023
 
-Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+> Proyecto - Granada en tus manos.
 
-Descripción: 
+> Descripción - Aplicación de un taller de Arte Nazarí en Granada que ofrece una amplia variedad de talleres con diferentes niveles de dificultad.
 
->>> Describa la idea de su producto en la práctica 2 
+Logotipo
 
-Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
 
 Miembros
  * 	:smile_cat:   Mario Martínez Sánchez       
@@ -163,19 +161,39 @@ Para el ‘Análisis de Tareas’ hemos realizado una matriz de tareas/usuarios,
 ![Método UX](img/labelling.png) 2.d IA: Sitemap + Labelling 
 ----
 
+En este paso, hemos propuesto una organización lógica para la navegación y los elementos de diseño de la página web. Hemos creado un mapa del sitio (sitemap) donde mostramos la arquitectura que va a seguir nuestra aplicación.
 
->>> Identificar términos para diálogo con usuario  
+![Sitemap](P2/ArquitecturaInformacion/SiteMap.png)
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+En la siguiente tabla se recogen los términos empleados y la funcionalidad de los mismos.
 
+![Labelling](P2/ArquitecturaInformacion/Labelling.png)
+ 
 
 ![Método UX](img/Wireframes.png) 2.e Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+En esta última sección hemos creado unos bocetos de las distintas pantallas del interfaz, que nos van a mostrar visualmente el funcionamiento de la aplicación. Para la realización de los mismos hemos hecho uso de la herramienta Figma.
 
+![Bocetos](P2/PrototipoLO-FI/Bocetos.png)
+
+
+
+### Inicio, Sobre nosotros y Perfil del usuario
+
+![Bocetos](P2/PrototipoLO-FI/Inicio.png)
+
+
+
+### Talleres generales y un taller en concreto
+
+![Talleres](P2/PrototipoLO-FI/Talleres.png)
+
+
+
+### Rutas y Contacto
+
+![RutasContacto](P2/PrototipoLO-FI/RutasContacto.png)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
