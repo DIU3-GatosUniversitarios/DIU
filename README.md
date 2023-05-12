@@ -8,17 +8,16 @@ Updated: 01/05/2023
 
 > Descripción - Aplicación de un taller de Arte Nazarí en Granada que ofrece una amplia variedad de talleres con diferentes niveles de dificultad.
 
-Logotipo
+### Logotipo
+
+![Logo](P3/Moodboard/Logos/Logo_small.png)
 
 
-
-Miembros
+### Miembros
  * 	:smile_cat:   Mario Martínez Sánchez       
  * 	:smile_cat:  Teresa Fernanda Reyes García
 
 ----- 
-
-
 
 
 
@@ -201,33 +200,83 @@ En esta última sección hemos creado unos bocetos de las distintas pantallas de
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
+Para la realización del Moodboard, hemos utilizado [**Figma**](https://www.figma.com/). Con esto, hemos querido transmitir la idea principal de nuestra página: aportar la posibilidad de crear arte a partir de barro. Para ello, hemos mostrado tanto los colores que predominarán en la página, como la tipografía, el logotipo y algunas imágenes inspiradoras.
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+### Moodboard
+
+![Moodboard](P3/Moodboard/Moodboard.png)
+
+### Logotipos
+
+![Logos](P3/Moodboard/Logos/LOGOS.png)
+
+Hemos diseñado nuestro logotipo haciendo uso de [**Canva**](https://www.canva.com/). Nos resulta una herramienta muy sencilla para este tipo de diseños. Contestando a la pregunta que se plantea, estos logos no podrían usarse como banner para una red social directamente, sino que habría que adaptar su tamaño y/o apariencia.
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+Para el diseño de la Landing Page hemos hecho uso de [**Canva**](https://www.canva.com/). En ella, mostramos al público qué queremos ofrecer y cómo lo ofreceremos. Para ello, utilizamos un título que describe qué ofrece la página, junto con una pequeña descripción cuyo objetivo es captar la atención del receptor. Además, mostramos los puntos fuertes de nuestros talleres e imágenes que representan los trabajos realizados en estos.
 
->>> Plantear Landing Page 
+Hemos realizado dos versiones, para mostar cómo se vería tanto en web como en móvil.
+
+### Versión web
+
+![LPweb](P3/LandingPage/LandingPageWeb.png)
+
+### Versión móvil
+
+![LPphone](P3/LandingPage/LandingPagePhone.png)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+### Guía de estilo
+
+Para la realización de la práctica, hemos utilizado [**Canva**](https://www.canva.com/), pues es la aplicación que mejor controlamos y, a su vez, contaba con funciones muy útiles y visuales para el diseño de la página.
+
+### Paleta de colores
+
+Respecto a los colores, hemos utilizado la herramienta [**Coolors**](https://coolors.co/). Hemos realizado una paleta de colores con distintos marrones, simulando el barro y la tierra, pues es el material principal en nuestros talleres. De esta forma, está dividida de colores más oscuros a colores más claros.
+
+![Paleta](P3/Moodboard/PaletaColores.png)
+
+### Tipografía 
+
+Para escribir texto, hemos utilizado distintos tipos de tipografía, cuyo objetivo es llamar la atención del cliente, siendo fácil de leer y profesional a la vez. La tipografía seleccionada ha sido la siguiente:
+
+> - **The Seasons**: destaca por su aportación en el logotipo. Salvo esto, no se utiliza en muchos más casos (algunas secciones de texto como el nivel de los talleres).
+
+> - **Roboto**: esta es la tipografía principal, pues es la más utilizada (exceptuando títulos, subtítulos, logotipos, etc). También la hemos utilizado para las distintas secciones del menú.
+
+> - **Bebas Neue**: es la tipografía más utilizada para títulos y subtítulos, pues es perfecta para captar la atención del usuario.
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+Para esta sección, al igual que para el Landing Page, hemos realizado dos diseños en [**Canva**](https://www.canva.com/) (uno para web y otro para móvil). Para esto hemos seguido los bocetos Low-Fi, realizados en la práctica anterior, utilizando los colores y la tipografía especificada en el Guidelines. Además, hemos puesto botones, de forma que se pueda interactuar con el menú, accediendo a todas las opciones implementadas.
 
+Una vez descargados los pdfs de los prototipos, se puede simular la navegación de la web mediante el menú de navegación y otros botones.
+
+### Versión web
+
+-	:scroll: [Prototipo HI-FI Web](P3/LayoutHI-FI/Prototipo(Web).pdf)
+
+### Versión móvil
+
+-	:scroll: [Prototipo HI-FI Web](P3/LayoutHI-FI/Prototipo(Phone).pdf)
+
+### Ejemplos de la versión web
+
+![Inicio](P3/LayoutHI-FI/Web/Inicio.png)
+
+![Talleres](P3/LayoutHI-FI/Web/Talleres.png)
+
+![Rutas](P3/LayoutHI-FI/Web/Rutas.png)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
-
 
 >>> Publicar my Case Study en Github..
 >>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
