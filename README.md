@@ -1,12 +1,12 @@
 # DIU23
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Turismo ) 
 
-Grupo: DIU3_GatosUniversitarios.  Curso: 2022/23 
-Updated: 01/05/2023
+**Grupo:** DIU3_GatosUniversitarios 
+**Updated:** 12/05/2023
 
-> Proyecto - Granada en tus manos.
+> **Proyecto** - Granada en tus manos.
 
-> Descripción - Aplicación de un taller de Arte Nazarí en Granada que ofrece una amplia variedad de talleres con diferentes niveles de dificultad.
+> **Descripción** - Aplicación de un taller de Arte Nazarí en Granada que ofrece una amplia variedad de talleres con diferentes niveles de dificultad.
 
 ### Logotipo
 
