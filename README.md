@@ -10,7 +10,7 @@ Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Turismo )
 
 ### Logotipo
 
-![Logo](P3/Moodboard/Logos/Logo_small.png)
+![Logo](P3/DiseñoVisual/Logos/Logo_small.png)
 
 
 ### Miembros
@@ -204,11 +204,11 @@ Para la realización del Moodboard, hemos utilizado [**Figma**](https://www.figm
 
 ### Moodboard
 
-![Moodboard](P3/Moodboard/Moodboard.png)
+![Moodboard](P3/DiseñoVisual/Moodboard.png)
 
 ### Logotipos
 
-![Logos](P3/Moodboard/Logos/LOGOS.png)
+![Logos](P3/DiseñoVisual/Logos/LOGOS.png)
 
 Hemos diseñado nuestro logotipo haciendo uso de [**Canva**](https://www.canva.com/). Nos resulta una herramienta muy sencilla para este tipo de diseños. Contestando a la pregunta que se plantea, estos logos no podrían usarse como banner para una red social directamente, sino que habría que adaptar su tamaño y/o apariencia.
 
@@ -239,7 +239,7 @@ Para la realización de la práctica, hemos utilizado [**Canva**](https://www.ca
 
 Respecto a los colores, hemos utilizado la herramienta [**Coolors**](https://coolors.co/). Hemos realizado una paleta de colores con distintos marrones, simulando el barro y la tierra, pues es el material principal en nuestros talleres. De esta forma, está dividida de colores más oscuros a colores más claros.
 
-![Paleta](P3/Moodboard/PaletaColores.png)
+![Paleta](P3/DiseñoVisual/PaletaColores.png)
 
 ### Tipografía 
 
