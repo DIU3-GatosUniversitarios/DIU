@@ -265,7 +265,7 @@ Una vez descargados los pdfs de los prototipos, se puede simular la navegación 
 
 ### Versión móvil
 
--	:scroll: [Prototipo HI-FI Web](P3/LayoutHI-FI/Prototipo(Phone).pdf)
+-	:scroll: [Prototipo HI-FI Móvil](P3/LayoutHI-FI/Prototipo(Phone).pdf)
 
 ### Ejemplos de la versión web
 
@@ -278,9 +278,7 @@ Una vez descargados los pdfs de los prototipos, se puede simular la navegación 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
+![UX-caseStudy](P3/CaseStudy/UX-caseStudy.gif)
 
 ## Paso 4. Evaluación 
 
