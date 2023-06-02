@@ -333,7 +333,7 @@ Ambas páginas han sacado muy buenas calificaciones en el cuestionario SUS, son 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
--  :scroll: [**Usability Report - Tablao la Alboreá**](P4/Imágenes/Usability_test.odt)
+-  :scroll: [**Usability Report - Tablao la Alboreá**](P4/Usability_test.odt)
 
 
 ### Valoración personal
