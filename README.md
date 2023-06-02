@@ -286,65 +286,94 @@ Una vez descargados los pdfs de los prototipos, se puede simular la navegación 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
+![tablao](P5/Páginas/LandingPage.png)
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+![tablao2](P5/Páginas/Inicio.png)
+
+El tablao la alboreá pretende crear un sitio web que llegue a un amplio público, desde los más jóvenes a los más mayores. Ofrecen muchos servicios, entre ellos: clases, momentos destacados de sus actuaciones y clases, venta de entradas y más. Quieren que el flamenco esté al alcance de todos, no solo de unos pocos, por lo que enseñan este arte de una manera sencilla y para todo el mundo.
+
+-  :scroll: [**Enlace al github del caso asignado.**](https://github.com/MiixZ/DIU)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+Hemos hecho uso de los dados de usuarios y, tras unas tiradas aleatorias, para el test B nos han salido los dos siguientes perfiles:
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+- **PERFIL 1**  –  Discapacitado – Baile – Disgustado
+- **PERFIL 2**  –  Jubilado – Trabajo – Feliz
+- **PERFIL 3**  –  Discapacitado – Poco tiempo – Feliz
+- **PERFIL 4**  –  Estudiante – Idiomas – Enfadado
+ 
+![tablaUsuarios](P4/Imágenes/Usuarios.png)
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+Hemos realizado un cuestionario SUS a cada uno de los usuarios planteados en el apartado anterior:
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+### Cuestionarios SUS : Tipo A
+
+![cuestionario1](P4/Imágenes/jorge.png)
+
+![cuestionario2](P4/Imágenes/alejandro.png)
+
+### Cuestionarios SUS : Tipo B
+
+![cuestionario3](P4/Imágenes/concha.png)
+
+![cuestionario4](P4/Imágenes/maite.png)
+
+### Conclusión
+
+Ambas páginas han sacado muy buenas calificaciones en el cuestionario SUS, son muy completas y tienen un buen diseño. Nos hemos fijado que para perfiles de usuarios como pueden ser personas mayores o personas con un nivel de experiencia en internet bajo, puede llegar a ser un poco más complicado el navegar por ellas.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+-  :scroll: [**Usability Report - Tablao la Alboreá**](P4/Imágenes/Usability_test.odt)
+
+
+### Valoración personal
+
+En conclusión, consideramos que la página es muy completa y cuenta con un diseño excelente. Es importante tener en cuenta las necesidades de los usuarios que hemos creado, como pueden ser necesidades de accesibilidad para el usuario discapacitado, asegurándonos de que la página sea fácilmente accesible y utilizable, o las necesidades para la estudiante enfadada, pudiendo incluir recursos relacionados con idiomas y evitar elementos que puedan generar frustración.
+
+En general, aunque los problemas de usabilidad detectados no son de gran relevancia, podemos enfocarnos en optimizar aspectos estéticos y considerar las necesidades específicas de los perfiles de usuarios mencionados. Al tratar de resolver dichos problemas, la página puede mejorar su atractivo visual y ofrecer una experiencia más satisfactoria para todos los usuarios.
+
+
+![Método UX](img/Accesibility.png)  5.a Eye Tracking 
+----
+
+## Diseño del experimento.
+
+Para realizar este experimento, hemos utilizado ‘Gaze Recorder’. Hemos creado una cuenta y hemos subido las distintas imágenes de la página que se nos ha asignado. En primer lugar, hemos decidido qué instrucciones vamos a darle al usuario:
+
+- Hemos explicado la temática de la página, la cual es sobre un tablao flamenco, sus clases, galería de imágenes y compra de entradas.
+
+- Hemos indicado que se fijen en cómo realizar una compra de entradas para un día concreto que se quiera visitar el tablao.
+
+De esta forma, hemos podido comprobar cómo de fácil de utilizar es la página y cuáles son sus puntos fuertes, es decir, qué secciones destacan sobre el resto.
+
+## Reclutado de usuarios.
+
+Para esta parte de la práctica, hemos contactado con dos de nuestros compañeros de clase y les hemos mostrado la práctica asignada. Haciendo uso de la aplicación explicada anteriormente, hemos podido comprobar cuáles son las secciones que más destacan de la web que se nos ha asignado. Además, les hemos pedido que realicen las operaciones también descritas anteriormente, para comprobar la usabilidad de la web.
+
+Para poder realizar la prueba, se ha utilizado el siguiente [enlace.](https://app.gazerecorder.com/Study/Test?StudyID=ef331e85ae8b3670a6eae8bda0c5cea2&lang=es&RespondentID=null)
+
+## Conclusiones
+
+Tras realizar las pruebas y ver los resultados de los diferentes Heat Map y AoI de cada una de las secciones de la página, hemos podido observar que destaca la compra de entradas, en las que la atención se centra en los campos a rellenar; o la galería de imágenes, en las que toda la atención está puesta en las imágenes mostradas.
+
+En conclusión, tras haber realizado los tests (tanto para uno de los expertos como para dos personas ajenas) podemos ver que la página está bien diseñada, pues capta la atención las secciones que interesan al diseñador: la compra de entradas, las imágenes de la galería, las redes sociales, etc.
 
 
 
->>> Valoración personal 
-
-
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
-
-
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
 
 
 
-## Conclusión final / Valoración de las prácticas
 
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
 
 
 
